@@ -1,1 +1,2 @@
-# car-emu-v2
+# Car Simulator v2
+Reworked car simulator.
