@@ -1,0 +1,37 @@
+
+ID ICON "city.ico"
+
+
+// Version Info
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+{
+ BLOCK "StringFileInfo"
+  {
+  BLOCK "040904E4"
+   {
+VALUE "CompanyName", " "
+
+VALUE "FileDescription", "Roads Simulator"
+
+VALUE "FileVersion", "1.0"
+
+VALUE "InternalName", "city"
+
+VALUE "LegalCopyright", " "
+
+VALUE "OriginalFilename", "city.exe"
+
+VALUE "ProductName", "Roads Simulator"
+
+VALUE "ProductVersion", "1.0"
+
+   }
+  }
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 1033, 1252
+ }
+}
+
